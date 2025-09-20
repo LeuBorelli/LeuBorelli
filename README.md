@@ -1,6 +1,8 @@
-## Hi there 👋
+# Olá, eu sou Leandro da Silva 👋
 
-Oláár
+💻 QA Engineer | Tester | Automação | Testes Manuais |
+
+Analista de Qualidade de Software apaixonado por automação de testes, tecnologia e games. Sempre em busca de melhorar processos, aprender novas ferramentas e compartilhar conhecimento.
 
 <!--
 **LeuBorelli/LeuBorelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
