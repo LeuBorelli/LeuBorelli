@@ -29,11 +29,13 @@ Analista de Qualidade de Software apaixonado por automação de testes, tecnolog
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=leuborelli&layout=compact&theme=tokyonight)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=leuborelli&theme=tokyonight)
 
+![Snake animation](https://raw.githubusercontent.com/leuborelli/leuborelli/output/github-contribution-grid-snake.svg)
+
 ## 📫 Contato
 
 - ✉️ Email: lej.borelli@gmail.com  
 - 🌐 GitHub: [github.com/leandrosilva](https://github.com/leandrosilva)  
-- 🔗 LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/leandro-da-silva-053876214/)
+- 🔗 LinkedIn: [Leandro da Silva](https://www.linkedin.com/in/leandro-da-silva-053876214/)
 
 ---
 
